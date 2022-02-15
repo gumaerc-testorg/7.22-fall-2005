@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes problems to the questions asked in self quiz on
   UV irradiation, ?antisense? techniques, and concepts of ?determination? and ?differentiation?.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-22-developmental-biology-fall-2005/9c40b6dad278c2dea153dad3972a6a78_self_quiz_ans_05.pdf
+file: /media/courses/7-22-developmental-biology-fall-2005/9c40b6dad278c2dea153dad3972a6a78_self_quiz_ans_05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: self_quiz_ans_05.pdf
 uid: 9c40b6da-d278-c2de-a153-dad3972a6a78

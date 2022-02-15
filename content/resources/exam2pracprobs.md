@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes problems on retinoic acid, gastrula stage, and
   ethyl nitrosourea.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-22-developmental-biology-fall-2005/cb817683cbb7a0188a9b0f03568357d1_exam2pracprobs.pdf
+file: /media/courses/7-22-developmental-biology-fall-2005/cb817683cbb7a0188a9b0f03568357d1_exam2pracprobs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: exam2pracprobs.pdf
 uid: cb817683-cbb7-a018-8a9b-0f03568357d1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 00f8cfef-3306-2d6e-1455-3ad862a56ae6
 resourcetype: Document
 title: exam1pracprob.pdf
 uid: 00042cfa-f9ed-4d42-a124-5ad5a09326be

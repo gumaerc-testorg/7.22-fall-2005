@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04230dbb-7c9e-8330-4ad7-8446b74acca0
 resourcetype: Document
 title: principles_devel.pdf
 uid: 8672ffad-bde8-b5d4-f03e-d5408c7a400c

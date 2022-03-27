@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3970d0e3-55d6-4209-7d13-ef4e7e2f4d15
 resourcetype: Document
 title: synthesis.pdf
 uid: 1247886a-4c7a-c3b0-18ae-fe93b912754b

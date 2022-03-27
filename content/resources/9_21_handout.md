@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 5c7f29c1-d600-f596-e62d-e84b61cb25d8
 resourcetype: Document
 title: 9_21_handout.pdf
 uid: bb5a6b34-c3c1-77a5-ac0d-3592520a91ab

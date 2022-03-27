@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 00f8cfef-3306-2d6e-1455-3ad862a56ae6
 resourcetype: Document
 title: exam1prac_ans.pdf
 uid: f8998ebe-8fbb-c53d-b90a-6e7eb1f663ac

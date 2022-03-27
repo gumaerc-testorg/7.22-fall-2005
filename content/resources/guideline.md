@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3970d0e3-55d6-4209-7d13-ef4e7e2f4d15
 resourcetype: Document
 title: guideline.pdf
 uid: ea7a014d-78d6-d2e0-5d72-94f2d5b8b23f

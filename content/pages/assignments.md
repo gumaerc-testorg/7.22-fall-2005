@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignment section includes class synthesis project, weekly discussion
+  papers, and final projects.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3970d0e3-55d6-4209-7d13-ef4e7e2f4d15
 ---
@@ -9,7 +14,7 @@ Class Synthesis Project
 
 The goal of this project is to put together a list of the general and evolutionarily relevant principles that direct development. Specifically, we would like you to synthesize what you have learned into some general principles. You have been exposed to these principles through the lectures and readings.
 
-Handout on Synthesis ([PDF]({{< baseurl >}}/resources/synthesis))
+Handout on Synthesis ({{% resource_link 1247886a-4c7a-c3b0-18ae-fe93b912754b "PDF" %}})
 
 Weekly Paper Discussions
 ------------------------
@@ -18,7 +23,7 @@ A small group of students (usually three, depending on class size) will be respo
 
 You will each get two opportunities to lead a paper discussion and will get feedback after each session you lead. Where you receive grades for leading a discussion, you will receive a grade for the best discussion you lead (probably the last one when you have become more experienced).
 
-Guidelines for Reading Research Papers ([PDF]({{< baseurl >}}/resources/guideline))
+Guidelines for Reading Research Papers ({{% resource_link ea7a014d-78d6-d2e0-5d72-94f2d5b8b23f "PDF" %}})
 
 Graduate Students: Final Project
 --------------------------------

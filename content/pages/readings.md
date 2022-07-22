@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section inlcudes the required and recommended readings for
+  this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 04230dbb-7c9e-8330-4ad7-8446b74acca0
 ---
@@ -354,7 +359,7 @@ Sermon, K., A. Van Steirteghem, and I. Lancet Liebaers. "Preimplantation genetic
   
 Holm, S. "Going to the roots of the stem cell controversy." _Bioethics_ 16, no. 6 (November 2002): 493-507.  
   
-Principles of Development Handout - Terms to Know. ([PDF]({{< baseurl >}}/resources/principles_devel))
+Principles of Development Handout - Terms to Know. ({{% resource_link 8672ffad-bde8-b5d4-f03e-d5408c7a400c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

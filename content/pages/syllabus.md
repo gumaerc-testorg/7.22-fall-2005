@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section includes the class format, recommended text and
+  grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4c8c288d-71cd-0cf6-e062-325be8917229
 ---
@@ -31,7 +35,7 @@ Gilbert, Scott F. _Developmental Biology_. 7th ed. Sunderland, MA: Sinauer Assoc
 
 Background will be provided for students who have not studied development before, and Microsoft® PowerPoint® presentations will be made accessible to the class.
 
-See the [readings]({{< baseurl >}}/pages/readings) section for a complete list of recommended texts.
+See the {{% resource_link 04230dbb-7c9e-8330-4ad7-8446b74acca0 "readings" %}} section for a complete list of recommended texts.
 
 Assignments
 -----------

@@ -6,6 +6,7 @@ file: /courses/7-22-developmental-biology-fall-2005/1247886a4c7ac3b018aefe93b912
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: synthesis.pdf
 uid: 1247886a-4c7a-c3b0-18ae-fe93b912754b
 ---
 This resource put together a list of the general and evolutionarily relevant principles that direct Development.
-

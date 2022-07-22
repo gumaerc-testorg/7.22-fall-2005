@@ -6,6 +6,7 @@ file: /courses/7-22-developmental-biology-fall-2005/ecc9f49a515ccc6d2adca26aaa27
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz_10_5_05ans.pdf
 uid: ecc9f49a-515c-cc6d-2adc-a26aaa27d35a
 ---
 This resource includes answers to the problems on the term ?axis?, homolog, paralog, and ortholog.
-

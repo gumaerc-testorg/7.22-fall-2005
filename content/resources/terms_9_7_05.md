@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on Terms which may be new. Most will
   be covered in class.
-file: /courses/7-22-developmental-biology-fall-2005/dba234b14decde94ac3592e2bc747894_terms_9_7_05.pdf
+file: /ol-ocw-studio-app/courses/7-22-developmental-biology-fall-2005/dba234b14decde94ac3592e2bc747894_terms_9_7_05.pdf
 file_size: 51595
 file_type: application/pdf
 learning_resource_types: []

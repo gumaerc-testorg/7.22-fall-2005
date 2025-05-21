@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problems on UV irradiation, ?antisense? techniques,
   and concepts of ?determination? and ?differentiation?.
-file: /ol-ocw-studio-app/courses/7-22-developmental-biology-fall-2005/2f4ee1e0b5bf18ff1fe0ab4ee106c313_self_quiz_05.pdf
+file: /courses/7-22-developmental-biology-fall-2005/2f4ee1e0b5bf18ff1fe0ab4ee106c313_self_quiz_05.pdf
 file_size: 36651
 file_type: application/pdf
 learning_resource_types:

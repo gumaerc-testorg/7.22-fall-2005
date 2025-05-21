@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the answers of the questions asked in exam 1 on
   developing worms, fate mapping, and induction.
-file: /ol-ocw-studio-app/courses/7-22-developmental-biology-fall-2005/6027dec18a8a022b3cdc3c20a0388ef7_exam1_answers.pdf
+file: /courses/7-22-developmental-biology-fall-2005/6027dec18a8a022b3cdc3c20a0388ef7_exam1_answers.pdf
 file_size: 109498
 file_type: application/pdf
 learning_resource_types:

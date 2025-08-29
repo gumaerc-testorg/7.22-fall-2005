@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information important structures, dorsoventral
   axis, and anteroposterior axis.
-file: /courses/7-22-developmental-biology-fall-2005/bb5a6b34c3c177a5ac0d3592520a91ab_9_21_handout.pdf
+file: /ol-ocw-studio-app/courses/7-22-developmental-biology-fall-2005/bb5a6b34c3c177a5ac0d3592520a91ab_9_21_handout.pdf
 file_size: 64228
 file_type: application/pdf
 learning_resource_types: []

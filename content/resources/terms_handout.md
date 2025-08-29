@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes extra information on reproductive cloning, potency,
   and chromatin.
-file: /courses/7-22-developmental-biology-fall-2005/4a446662b2607064a1084c53fb3b6eb8_terms_handout.pdf
+file: /ol-ocw-studio-app/courses/7-22-developmental-biology-fall-2005/4a446662b2607064a1084c53fb3b6eb8_terms_handout.pdf
 file_size: 39039
 file_type: application/pdf
 learning_resource_types: []
